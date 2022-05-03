@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Clean the House",
+      "day": "Today",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Dişçiye git",
+      "day": "5 haziran",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "Dişçiye git",
+      "day": "bugün",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}

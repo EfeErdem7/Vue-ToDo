@@ -12,7 +12,7 @@ export default {
     tasks: Array,
   },
   components: {
-      Task
+      Task,
   },
   emits: ['delete-task', 'toggle-reminder']
 };
